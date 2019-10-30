@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>t0.0t</h1>
-<h2>test</h2>
-testing
+123123123123
 </body>
 </html>
